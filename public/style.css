@@ -1,0 +1,23 @@
+h1 {
+  color: maroon;
+}
+
+.post {
+  background-color: rgb(187, 246, 177);
+  box-shadow: 4px 2px black;
+}
+
+body {
+  background-color: rgba(65, 251, 251, 0.6);
+}
+
+a {
+  text-decoration: none;
+  border: 1px black solid;
+  color: rgb(99, 38, 38);
+}
+a:hover,
+button:hover {
+  background-color: rgb(208, 4, 4);
+  color: white;
+}
