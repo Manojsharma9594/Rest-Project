@@ -1,7 +1,2 @@
 # rest-project
-
-this is a page using rest-api
-
-# User
-
-Manoj Sharma
+This is a file created using node js , express js and extended javascript and restful api's
