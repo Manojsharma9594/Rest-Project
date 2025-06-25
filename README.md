@@ -5,4 +5,4 @@ It's a simple quora page inside which we can create new post , edit and delete p
 # Necessary installation
 Please make sure to install node js environment before use;
 And the additional file are included inside the package.json file
-Nodejs installation link : https://nodejs.org/en/download
+
